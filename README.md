@@ -9,5 +9,7 @@
     Say what you think 
 ```
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Eug620)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
